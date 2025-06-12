@@ -80,7 +80,13 @@ This application is deployed using GitHub Pages and is available at:
 
 #Join Room  
 
+![Image](https://github.com/user-attachments/assets/0dc9f5b2-4818-422c-9549-20b46342f94c)
+
 #Chat Room    
+
+![Image](https://github.com/user-attachments/assets/d963e1b1-4889-4565-8449-941b6eb5f023)
+![Image](https://github.com/user-attachments/assets/faebb621-d9f8-445b-9b9f-aef61b1d6a15)
 
 #Image and Emoji Sharing  
 
+![Image](https://github.com/user-attachments/assets/e105d9b7-6c65-4a58-9bdc-12c9b0f49bc9)
