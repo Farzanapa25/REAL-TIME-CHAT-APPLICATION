@@ -42,15 +42,17 @@ Welcome to the Real-Time Chat App! This full-stack web application allows users 
 
 •	CSS3 – Styling and layout
 
-# Installation
+# Installation:
 
-#Backend Setup
+Backend Setup:
+
 ``
 -cd server
 -npm install
 -node index.js
 ``
-# Frontend Setup
+# Frontend Setup:
+
 ``
 -cd client
 -npm install
