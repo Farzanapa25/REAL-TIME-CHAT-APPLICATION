@@ -63,7 +63,8 @@ Frontend Setup:
 # Deployment
 
 This application is deployed using GitHub Pages and is available at:
-🔗
+
+🔗 https://farzanapa25.github.io/REAL-TIME-CHAT-APPLICATION/
 
 # Usage
 
