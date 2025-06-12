@@ -19,18 +19,27 @@ Welcome to the Real-Time Chat App! This full-stack web application allows users 
 # Features
 
 •	Join Chat Rooms: Enter your name and room code to join different groups.
+
 •	Live Messaging: Send and receive messages in real-time with Socket.IO.
+
 •	Typing Indicator: See when another user is typing in the same room.
+
 •	Emoji Picker: Add emojis to your messages with one click.
+
 •	Image/File Sharing: Upload and share images with other users.
+
 •	Responsive Design: Works smoothly on mobile, tablet, and desktop.
 
 # Technologies Used
 
 •	React – Frontend framework
+
 •	Node.js + Express – Backend server
+
 •	Socket.IO – Real-time communication
+
 •	emoji-picker-react – Emoji selector component
+
 •	CSS3 – Styling and layout
 
 # Installation
@@ -56,13 +65,18 @@ This application is deployed using GitHub Pages and is available at:
 # Usage
 
 •	Enter your name and room code on the home screen.
+
 •	Start chatting with other participants in the room.
+
 •	Attach an image, pick emojis, and hit Send.
+
 •	Messages appear instantly on both ends with timestamps and username labels.
 
 # Output
 
 #Join Room  
+
 #Chat Room    
+
 #Image and Emoji Sharing  
 
