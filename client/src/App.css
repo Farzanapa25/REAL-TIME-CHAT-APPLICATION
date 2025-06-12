@@ -1,0 +1,16 @@
+.chat-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  background-color: #f0f0f0;
+  border-radius: 12px;
+}
+.message {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+  background-color: white;
+}
+.sender {
+  font-weight: bold;
+}
