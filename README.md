@@ -46,18 +46,19 @@ Welcome to the Real-Time Chat App! This full-stack web application allows users 
 
 Backend Setup:
 
-``
 -cd server
+
 -npm install
+
 -node index.js
-``
+
 # Frontend Setup:
 
-``
 -cd client
+
 -npm install
+
 -npm start
-``
 
 # Deployment
 
