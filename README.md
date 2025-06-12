@@ -52,7 +52,7 @@ Backend Setup:
 
 -node index.js
 
-# Frontend Setup:
+Frontend Setup:
 
 -cd client
 
